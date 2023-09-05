@@ -1,0 +1,13 @@
+.stuff{
+    display: flex;
+    font-size: 50px;
+    text-align: center;
+    justify-content: center;
+    background: linear-gradient(to right,#3A1C71 , #D76D77, #FFAF7B);
+    height: 20%;
+    width: 50%;
+}
+
+.stuff:hover{
+    background: linear-gradient(to left,#3A1C71 , #D76D77, #FFAF7B);
+}
